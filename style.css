@@ -1,0 +1,42 @@
+
+body {
+  background-image: url(imagenes/violeta.png);
+  margin-left: 2em;
+  margin-right: 2em;
+}
+#titulo {
+  background-color: #a4c5e9;
+  margin-top: -1.4em;
+  text-shadow: 0.25em -0.05em 0.20px white;
+  color: #5d59a5;
+}
+#cuerpo {
+  background-color: #a4c5e9;
+  margin-top: -1em;
+}
+
+#primero {
+  background-color: white;
+  margin-top:
+}
+
+/* clearfix */
+#primero:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+#imagen {
+  border: thin solid black;
+  padding: 0.25em;
+  margin-left: 1em;
+  margin: 0.5em;
+  float: left;
+
+}
+#texto {
+  margin-left: 1em;
+  padding-top: 1em;
+
+}
